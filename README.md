@@ -4,6 +4,7 @@
 This is a real-time multiplayer chess game built with **Java Spring Boot** and **WebSockets**. The project allows multiple users to play chess against each other in real time, handling all the game logic, piece movements, and user sessions efficiently using Spring Boot's WebSocket capabilities.
 
 ![Screenshot 2024-09-13 213105](https://github.com/user-attachments/assets/8f88fc33-e6fe-4c9c-b4dc-3aec544b8581)
+![Screenshot 2024-09-13 213917](https://github.com/user-attachments/assets/08e1ed70-b1d6-4025-95da-5eb738d686a0)
 
 ## Technologies Used
 
